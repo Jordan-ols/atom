@@ -547,7 +547,7 @@
           {
             self.hide();
             self.hideRealm();
-          }, 150);
+          }, 500);
 
         // Add placeholder as value in browsers without support
         if (!Modernizr.input.placeholder)
